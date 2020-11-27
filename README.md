@@ -1,2 +1,2 @@
-# HealthCareApp-Assignment-PTH
-The Health Care App
+# TheCareApp-Assignment-PTH
+The Care App
